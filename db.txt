@@ -1,0 +1,14 @@
+nivel_classe{}
+int nivel_total
+
+6 habilidades
+6 STs
+pericia_treinada{}
+pericia_especializacao{}
+
+vida_total
+
+
+functions:
+-calc_mods()
+-calc_vida()
