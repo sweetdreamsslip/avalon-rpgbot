@@ -3,7 +3,7 @@ import discord
 from discord.ext import commands
 import pymongo
 import random
-
+from character_schema import Character
 
 client = pymongo.MongoClient(config("MONGO_CONNECTION"))
 db = client['avalon']

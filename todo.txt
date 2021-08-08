@@ -1,0 +1,3 @@
+Create insertion and checking commands on the bot
+Create html page to generate the command
+Praise the Sun
